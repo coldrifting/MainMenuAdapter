@@ -1,0 +1,21 @@
+{
+    "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg/master/scripts/vcpkg.schema.json",
+    "name": "logo-editor",
+    "version-string": "1.0.0",
+    "port-version": 0,
+    "description": "Edits existing logo files to work with the Main Menu Randomizer SKSE Plugin",
+    "homepage": "https://github.com/coldrifting",
+    "license": "Apache-2.0",
+    "features": {
+        "basics": {
+            "description": "Required for editing nifs",
+            "dependencies": [
+                "nifly",
+                "7zip"
+            ]
+        }
+    },
+    "default-features": [
+        "basics"
+    ]
+}
