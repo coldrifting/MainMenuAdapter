@@ -1,0 +1,3 @@
+[submodule "bit7z"]
+	path = bit7z
+	url = git@github.com:rikyoz/bit7z
