@@ -1,4 +1,4 @@
-# Main Menu Adapter
+# Main Menu Converter
 Converts Main Menu replacer meshes for Skyrim to work with my Main Menu Randomizer SKSE Plugin
 
 Since many Main Menu meshes reuse the same model and just edit the image it points to, trying to use more than one
